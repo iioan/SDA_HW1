@@ -7,7 +7,7 @@ To achieve this, it is necessary to build a hash map in which we store the encou
 
 ![example](/images/Screenshot%202023-09-20%20094737.png  "example") 
 
-Each element in the vector v (in the hash table) is a generic singly-linked list that will contain words starting with the character corresponding to the position associated with the entry in the vector. 
+Each element in the vector v (in the hash map) is a generic singly-linked list that will contain words starting with the character corresponding to the position associated with the entry in the vector. 
 
 This list will contain words divided into sublists based on their lengths. For the given example, the first cell in the list contains words of length 3 (in this case, 'Ana'), and the second cell of the list will contain the list of words of length 5 (in this case: 'acasa,' 'ajuns'). 
 
