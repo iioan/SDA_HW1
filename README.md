@@ -1,4 +1,9 @@
-# Tema 1 SDA
+# Text Analysis Tool - Data Structures and Algorithms Project
+We want to create a statistic for analyzing a text file. For example, we want to determine the frequencies of words in the text, the frequency of words with a certain length, etc.
+
+To achieve this, it is necessary to build a hash table in which we store the encountered words. Words will be considered as strings (with a length >= 3) composed of lowercase/uppercase letters.
+
+# Tema 1 Structuri de date si Algoritmi
 TEODORESCU Ioan - 313CB
 
 Programul construieste o tabela hash in care păstram cuvintele întâlnite, alaturi de numarul de aparatii al acestora.
